@@ -1,1 +1,7 @@
 ./sup_info/
+./ipynb_checkpoints
+./Rproj.user
+.Rproj.user*
+.ipynb*
+.RData
+.Rhistory

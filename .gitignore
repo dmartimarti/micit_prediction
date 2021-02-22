@@ -5,3 +5,4 @@
 .ipynb*
 .RData
 .Rhistory
+all_seqs.fasta

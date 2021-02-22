@@ -145,3 +145,56 @@ write.xlsx(list_of_datasets,'freqs_hits.xlsx')
 
 
 
+
+
+# micit prod by tissue ----------------------------------------------------
+
+library(readxl)
+micit = read_excel("MICIT2_selected_strains.xlsx", 
+                                      sheet = "sim_table_ngm", skip = 1)
+names(micit)
+
+micit = micit %>% 
+  select(species = Species, NGM = NGM_MicitOptimization, serum = serum_MicitOptimization)
+
+micit_sp = micit$species
+
+
+
+hits_freqs_micit = hits_freqs %>% 
+  filter(species %in% micit_sp) %>% 
+  select(-(index:genus)) 
+
+
+
+A = as.matrix(hits_freqs_micit[,2:16])
+
+B = as.matrix(micit[,2:3])
+
+micit_prod = t(A) %*% B
+
+
+micit_prod = micit_prod %>% 
+  as.data.frame %>% 
+  tibble(tissue = rownames(micit_prod),validate = NULL)
+
+
+micit_prod %>% 
+  pivot_longer(NGM:serum, names_to = 'Media', values_to = 'Micit_prod') %>% 
+  ggplot(aes(x = Micit_prod, y = reorder(tissue, Micit_prod, mean), fill=Media, group=Media)) +
+  geom_bar(stat = 'identity') + 
+  facet_wrap(~Media, scales = 'free_x') +
+  theme_light() 
+
+ggsave('Micit_prod_byTissue.pdf', height = 8, width = 10)
+
+micit_prod %>% 
+  filter(str_detect(tissue, '\\(T\\)')) %>% 
+  pivot_longer(NGM:serum, names_to = 'Media', values_to = 'Micit_prod') %>% 
+  ggplot(aes(x = Micit_prod, y = reorder(tissue, Micit_prod, mean), fill=Media, group=Media)) +
+  geom_bar(stat = 'identity') + 
+  facet_wrap(~Media, scales = 'free_x') +
+  theme_light() 
+
+ggsave('Micit_prod_byTissue_cancer.pdf', height = 8, width = 10)
+

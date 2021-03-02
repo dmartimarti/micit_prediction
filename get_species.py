@@ -43,8 +43,6 @@ hits_species = hits_species == False
 hits_final = hits_redux[hits_species]
 
 hits_final.to_csv('final_hits.csv', index = False)
-<<<<<<< HEAD
-
 
 #### load the csv with 16S sequences
 
@@ -62,6 +60,3 @@ len(set(seqs_hit['Species']))
 
 seqs_hit.to_csv('seqs_hits_extended.csv',index=False)
 
-
-=======
->>>>>>> 79ab21e12bb77360f6eababce6411a5aeaf2c022

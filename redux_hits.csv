@@ -1,0 +1,1180 @@
+Unnamed: 0,domain,phylum,class,order,family,genus,species,Breast (N),Breast (NAT),Breast (T),Lung (NAT),Lung (T),Melanoma (T),Pancreas (T),Ovary (N+NAT),Ovary (T),Bone (T),GBM (T),Colon (NAT),Colon (T),row_sum
+218,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces cardiffensis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+219,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces dentalis,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+224,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces johnsonii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+225,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces massiliensis,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+227,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces naeslundii,0,1,1,0,0,0,0,0,0,0,0,1,0,3
+229,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces odontolyticus,0,1,1,0,0,0,0,0,0,0,0,1,1,4
+230,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces oris,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+233,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces viscosus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+253,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species199,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+262,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species255,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+280,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species322,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+281,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species324,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+298,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species381,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+313,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species441,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+320,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species452,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+339,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Unknown species507,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+369,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Mobiluncus,Mobiluncus curtisii,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+375,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Varibaculum,Unknown species26,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+422,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas,Cellulomonas hominis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+425,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas,Cellulomonas xylanilytica,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+426,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Cellulomonadaceae,Tropheryma,Tropheryma whipplei,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+431,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species103,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+434,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species105,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+436,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1061,0,0,0,0,1,1,0,0,0,0,0,0,0,2
+442,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1091,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+444,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1106,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+449,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1124,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+454,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1150,0,1,1,1,0,0,0,0,0,0,0,0,0,3
+460,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1193,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+482,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1299,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+486,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1338,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+527,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1534,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+545,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1626,0,0,1,1,1,0,0,0,0,0,0,0,0,3
+551,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1652,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+561,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1668,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+562,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1673,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+564,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1675,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+581,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1703,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+585,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1709,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+587,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1715,1,0,1,1,1,0,0,0,0,0,0,0,0,4
+591,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1722,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+598,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1736,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+600,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1740,1,1,1,0,0,0,0,0,0,0,0,0,0,3
+607,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1755,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+608,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1758,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+623,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1782,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+644,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1834,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+648,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1838,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+653,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1846,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+667,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1880,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+668,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1883,1,1,1,0,0,0,0,0,0,0,0,0,0,3
+680,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1914,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+690,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1936,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+692,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species194,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+700,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1958,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+708,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species1982,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+718,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2024,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+744,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2109,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+745,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2111,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+767,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2223,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+774,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2265,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+781,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species2287,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+816,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species35,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+846,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species523,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+896,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species823,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+901,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species846,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+918,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Unknown species922,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+932,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium accolens,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+939,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium aurimucosum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+947,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium durum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+960,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium minutissimum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+961,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium mucifaciens,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+967,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium simulans,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+968,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium singulare,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+969,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium stationis,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+970,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium striatum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+971,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium sundsvallense,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+978,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,Corynebacterium xerosis,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+981,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium,Unknown species21,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+986,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium,Brachybacterium conglomeratum,0,0,1,1,0,0,1,0,0,0,0,0,0,3
+987,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium,Brachybacterium muris,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+989,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium,Brachybacterium squillarum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1009,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dietziaceae,Dietzia,Dietzia cinnamea,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+1021,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Geodermatophilaceae,Blastococcus,Unknown species13,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1033,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Geodermatophilaceae,Blastococcus,Blastococcus aggregatus,1,0,1,1,1,0,0,0,0,0,0,0,0,4
+1043,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Geodermatophilaceae,Modestobacter,Unknown species10,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+1067,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Gordoniaceae,Gordonia,Unknown species54,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1072,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Gordoniaceae,Gordonia,Unknown species75,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1082,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Intrasporangiaceae,Janibacter,Unknown species29,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+1098,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Intrasporangiaceae,Ornithinimicrobium,Unknown species14,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1129,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Microbacteriaceae,Agromyces,Agromyces mediolanus,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+1172,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium,Unknown species100,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1253,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter,Arthrobacter agilis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1263,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter,Arthrobacter globiformis,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+1267,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter,Arthrobacter nicotianae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1287,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter,Unknown species195,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1311,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria,Kocuria atrinae,0,0,1,1,0,0,0,0,0,0,1,0,0,3
+1314,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria,Kocuria kristinae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1318,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Microbispora,Microbispora rosea,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+1333,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Nesterenkonia,Nesterenkonia halotolerans,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1338,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1340,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Unknown species8,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+1341,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Unknown species9,1,1,1,0,0,0,0,0,0,0,0,0,0,3
+1342,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia aeria,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+1343,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia amarae,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+1344,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia dentocariosa,0,1,1,0,0,0,1,0,0,0,0,0,1,4
+1345,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia endophytica,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1346,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia mucilaginosa,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+1347,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia nasimurium,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1348,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Rothia,Rothia terrae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1368,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micromonosporaceae,Actinoplanes,Unknown species45,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1379,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micromonosporaceae,Couchioplanes,Unknown species9,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1453,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium,Mycobacterium frederiksbergense,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+1467,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium,Mycobacterium peregrinum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1475,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium,Mycobacterium vaccae,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+1505,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardiaceae,Rhodococcus,Rhodococcus corynebacterioides,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1506,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardiaceae,Rhodococcus,Rhodococcus erythropolis,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1535,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardioidaceae,Unknown genus18,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1541,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardioidaceae,Friedmanniella,Unknown species10,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1561,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardioidaceae,Friedmanniella,Unknown species45,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1585,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardioidaceae,Marmoricola,Unknown species61,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1693,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Nocardioidaceae,Nocardioides,Nocardioides ganghwensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1766,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Unknown genus24,Unknown species1,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+1815,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Propionibacterium,Unknown species18,1,1,1,1,1,0,0,0,0,0,0,0,0,5
+1823,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Propionibacterium,Propionibacterium avidum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1824,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Propionibacterium,Propionibacterium granulosum,0,1,1,1,1,0,0,0,0,1,0,0,0,5
+1829,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Propionimicrobium,Propionimicrobium lymphophilum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+1900,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Pseudonocardiaceae,Pseudonocardia,Pseudonocardia carboxydivorans,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2007,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Streptomycetaceae,Streptomyces,Streptomyces tricolor,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2023,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Williamsiaceae,Williamsia,Unknown species13,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2029,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,Alloscardovia omnicolens,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2033,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Unknown species18,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2039,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium adolescentis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2041,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2043,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2045,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2046,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium catenulatum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2049,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium dentium,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2051,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2053,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2061,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2070,Bacteria,Actinobacteria,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Eggerthella,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2150,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Unknown genus86,Unknown species13,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2155,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Atopobium,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2157,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Atopobium,Unknown species15,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2160,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Atopobium,Unknown species8,0,1,1,0,0,0,0,0,0,0,0,1,0,3
+2163,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,Collinsella aerofaciens,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2165,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Eggerthella,Eggerthella lenta,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2252,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1065,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2260,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1103,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2271,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1225,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2273,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1235,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2274,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1237,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2279,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1301,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2285,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1345,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2286,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1358,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2291,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1397,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2306,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1509,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2311,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1566,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2326,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1694,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2329,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1707,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2330,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1708,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2334,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1715,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2335,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1722,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2340,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1732,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2342,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1750,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2347,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1771,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2349,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species178,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2355,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1822,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2362,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1857,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2368,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1901,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2377,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1940,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2385,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species1991,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2393,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species2065,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2394,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species2070,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2407,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species2173,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2417,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species2278,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2429,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species354,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2436,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species385,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2437,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species388,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2441,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species429,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2449,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species462,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2453,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species578,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2463,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species715,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2477,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species885,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2481,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Unknown species919,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2490,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2495,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides dorei,0,0,0,0,0,1,0,0,0,0,0,1,1,3
+2496,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2499,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2503,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,0,0,0,0,0,0,0,1,0,0,0,1,1,3
+2505,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2507,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2508,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2509,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides vulgatus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2510,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2512,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Barnesiellaceae,Unknown genus18,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2517,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2524,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species38,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2525,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species4,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2528,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species46,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2529,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species50,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2530,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species54,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2532,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2533,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Odoribacter,Unknown species101,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2549,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paraprevotellaceae,Unknown genus33,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2555,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paraprevotellaceae,Prevotella,Prevotella Unknown,1,0,1,1,1,0,1,0,0,0,0,1,1,7
+2556,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paraprevotellaceae,Prevotella,Prevotella tannerae,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+2572,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species1016,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2579,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species1047,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2613,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species161,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2625,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species274,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2709,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species904,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2718,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species954,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2720,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Unknown species959,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2735,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Barnesiella,Barnesiella intestinihominis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2762,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Unknown species176,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2769,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Unknown species238,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2777,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides distasonis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2778,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides goldsteinii,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2780,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides merdae,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2783,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species103,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2785,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species115,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2794,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species165,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2807,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species275,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2811,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species308,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2813,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species316,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2819,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species332,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2841,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Unknown species392,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2856,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas asaccharolytica,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2866,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas uenonis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2884,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Tannerella,Unknown species43,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2893,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1051,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2909,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species122,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2914,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1293,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2920,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1330,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2923,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1336,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2948,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1498,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2962,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species1685,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+2989,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species37,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3027,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Unknown species932,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3033,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella baroniae,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3036,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella buccae,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3037,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella buccalis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3038,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella copri,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3040,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella denticola,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3046,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,0,1,1,0,0,0,0,0,0,0,0,0,1,3
+3051,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella nigrescens,0,0,1,0,0,0,0,0,0,0,0,1,0,2
+3053,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella oris,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3055,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella pallens,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+3058,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella stercorea,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3059,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella timonensis,1,1,1,1,0,0,0,0,0,0,0,0,0,4
+3062,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3063,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes indistinctus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3064,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3065,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3085,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species231,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3093,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species242,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+3097,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species262,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+3098,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species276,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+3099,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species290,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3103,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Unknown species74,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+3157,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,Unknown genus41,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+3169,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,Unknown genus491,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3226,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,Unknown genus730,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3241,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Unknown family,Unknown genus1586,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+3301,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Adhaeribacter,Unknown species85,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3469,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Rhodocytophaga,Unknown species9,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+3523,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Unknown species119,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3538,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Unknown species198,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3548,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Unknown species48,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+3553,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga gingivalis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3555,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga leadbetteri,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3556,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga ochracea,0,0,1,0,0,0,0,0,0,0,0,1,0,2
+3562,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Unknown species6,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3577,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Chryseobacterium hispanicum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3798,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides odoratimimus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3819,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Wautersiella,Empedobacter falsenii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3823,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Unknown genus2,Unknown species11,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3831,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Unknown genus43,Unknown species17,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3910,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Unknown species96,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3925,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Cloacibacterium,Unknown species26,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+3928,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Cloacibacterium,Unknown species38,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+3935,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Cloacibacterium,Unknown species82,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+3939,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Wautersiella,Unknown species10,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+3941,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Wautersiella,Unknown species18,1,1,1,0,0,0,0,0,0,0,0,0,0,3
+3942,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Wautersiella,Unknown species6,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+4033,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,Ferruginibacter,Unknown species200,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+4154,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Unknown species12,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4168,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium daejeonense,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+4355,Bacteria,Chloroflexi,Thermomicrobia,Sphaerobacterales,Sphaerobacteraceae,Sphaerobacter,Unknown species1,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+4377,Bacteria,Chloroflexi,Thermomicrobia,Sphaerobacterales,Sphaerobacteraceae,Sphaerobacter,Unknown species84,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4521,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus116,Unknown species17,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4523,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus116,Unknown species19,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+4530,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus118,Unknown species16,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4541,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species10,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+4543,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species12,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4549,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species2,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4556,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species3,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4564,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species5,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4567,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus123,Unknown species9,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4568,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus125,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4571,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus125,Unknown species16,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4602,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus2,Unknown species8,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+4603,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus2,Unknown species9,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+4605,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus20,Unknown species2,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+4619,Bacteria,Cyanobacteria,Chloroplast,Streptophyta,Unknown family,Unknown genus39,Unknown species8,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+4662,Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium Unknown,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+4719,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,Anoxybacillus kestanbolensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4750,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Unknown species1098,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4793,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Unknown species1389,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+4868,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus clausii,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+4886,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,Unknown species208,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+4924,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae 1,Bacillus,Bacillus anthracis,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+4932,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae 1,Bacillus,Bacillus flexus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4951,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae 1,Bacillus,Bacillus subtilis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4993,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species100,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4996,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species123,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+4999,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species128,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5000,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species129,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5009,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species29,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+5018,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species91,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5019,Bacteria,Firmicutes,Bacilli,Bacillales,Exiguobacteraceae,Exiguobacterium,Unknown species96,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5090,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Unknown genus75,Unknown species1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5091,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Unknown genus81,Unknown species3,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5106,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,Lysinibacillus boronitolerans,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+5133,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planomicrobium,Planomicrobium okeanokoites,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+5150,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,Solibacillus silvestris,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5179,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Jeotgalicoccus,Jeotgalicoccus psychrophilus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5190,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Salinicoccus,Salinicoccus qingdaonensis,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+5191,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Salinicoccus,Salinicoccus roseus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5206,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species161,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5255,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species580,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5277,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species663,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+5285,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species686,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5286,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species691,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5302,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species8,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5305,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species810,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5308,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Unknown species841,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5314,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus arlettae,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+5315,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,0,1,1,0,0,1,0,0,0,0,0,0,0,3
+5318,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus caprae,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5319,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus cohnii,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+5320,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus devriesei,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5322,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus equorum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5324,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus haemolyticus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5327,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus lugdunensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5330,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus pasteuri,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5331,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus pettenkoferi,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+5333,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+5335,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus sciuri,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5338,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus warneri,0,1,1,1,1,0,0,0,0,0,0,0,0,4
+5362,Bacteria,Firmicutes,Bacilli,Bacillales,Unknown species,Exiguobacterium,Exiguobacterium aurantiacum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5369,Bacteria,Firmicutes,Bacilli,Bacillales,Unknown species,Gemella,Unknown species26,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5377,Bacteria,Firmicutes,Bacilli,Bacillales,Unknown species,Gemella,Gemella haemolysans,0,1,1,0,0,0,0,0,0,0,0,1,0,3
+5379,Bacteria,Firmicutes,Bacilli,Bacillales,Unknown species,Gemella,Gemella sanguinis,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+5381,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Unknown genus10,Unknown species2,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5382,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Unknown genus11,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5402,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species183,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5404,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species20,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5407,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species229,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5408,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species231,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+5439,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species298,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5441,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species310,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5442,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species313,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5444,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species315,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+5454,Bacteria,Firmicutes,Bacilli,Gemellales,Gemellaceae,Gemella,Unknown species60,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5464,Bacteria,Firmicutes,Bacilli,Gemellales,Unknown family,Unknown genus6,Unknown species2,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+5465,Bacteria,Firmicutes,Bacilli,Gemellales,Unknown family,Unknown genus6,Unknown species3,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5474,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Unknown species1,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5475,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Unknown species10,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5478,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Unknown species30,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5483,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Alloiococcus,Alloiococcus otitis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5527,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Desemzia,Desemzia incerta,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5537,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Unknown species137,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5543,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Unknown species31,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5545,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Unknown species37,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5550,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Unknown species85,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5552,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Granulicatella adiacens,0,1,1,0,0,0,1,0,0,0,0,1,1,5
+5553,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Granulicatella elegans,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5569,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Unknown species169,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5577,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus cecorum,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+5580,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus durans,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+5582,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium,0,0,0,0,0,0,1,0,0,0,0,1,1,3
+5583,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus gallinarum,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+5627,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Unknown species479,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+5635,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Unknown species541,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+5642,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Unknown species600,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5666,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acidophilus,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5674,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5679,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5683,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus gasseri,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5687,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus iners,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+5692,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus kitasatonis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5702,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+5705,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus ruminis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5706,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sakei,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+5707,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus salivarius,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5711,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus vaginalis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5724,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc citreum,0,0,1,1,0,0,0,1,0,0,0,0,0,3
+5725,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc gasicomitatum,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5730,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+5734,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella,Weissella confusa,0,0,0,1,1,0,0,1,0,0,0,0,0,3
+5745,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Unknown species15,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5747,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Unknown species27,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5753,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Unknown species9,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5754,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus chungangensis,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5755,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5758,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus raffinolactis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5786,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1244,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5790,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1269,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5808,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1432,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5838,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1614,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5841,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species162,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5852,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1737,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5855,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1751,0,1,0,0,0,0,0,0,0,0,0,1,1,3
+5859,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species176,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5862,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1764,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5865,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1769,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5878,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1790,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5880,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1793,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+5884,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1800,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+5897,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1818,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5909,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1853,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+5915,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1871,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5933,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1898,0,0,1,0,0,0,0,0,0,0,0,1,0,2
+5935,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1903,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5937,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1906,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+5940,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1911,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5953,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species196,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5959,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species1995,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5962,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2018,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5968,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2029,0,1,1,0,0,0,0,0,0,1,0,0,0,3
+5969,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2033,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+5987,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2118,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5989,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2123,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+5999,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2182,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6000,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2183,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6003,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2199,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+6007,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species225,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6021,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species2337,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6039,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species243,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+6051,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species271,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6064,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species342,0,1,1,1,0,0,0,0,0,0,0,0,1,4
+6066,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species346,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+6067,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species36,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+6076,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species412,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+6092,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species544,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6102,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species596,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+6107,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species63,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6108,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species648,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6109,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species650,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6118,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species729,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6126,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species782,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+6129,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Unknown species842,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+6157,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Enterococcus durans,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6158,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Enterococcus faecium,0,0,1,0,1,0,0,0,0,0,0,1,1,4
+6161,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,0,1,1,0,0,0,1,0,0,0,0,0,0,3
+6162,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus australis,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+6165,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus constellatus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6166,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus cristatus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6173,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus gordonii,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+6174,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus infantarius,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6175,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus infantis,1,1,1,1,0,0,0,0,0,0,0,0,0,4
+6177,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus intermedius,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6180,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+6181,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus oralis,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+6182,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus parasanguinis,0,1,1,0,1,0,0,0,0,0,0,1,1,5
+6183,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus peroris,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6184,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,0,0,1,1,0,0,0,0,0,0,0,1,1,4
+6194,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus vestibularis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6203,Bacteria,Firmicutes,Bacilli,Turicibacterales,Turicibacteraceae,Turicibacter,Unknown species41,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6220,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Unknown genus216,Unknown species4,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6221,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Unknown genus216,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6223,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Unknown genus221,Unknown species4,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6244,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Unknown genus127,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6285,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unknown species1187,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6291,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unknown species19,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6293,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6299,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6319,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unknown species773,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6342,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6348,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,SMB53,SMB53 Unknown,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6356,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Sarcina,Unknown species19,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6376,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto,Unknown species387,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6384,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto,Unknown species415,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6390,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto,Unknown species437,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6392,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto,Unknown species453,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6416,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto,Clostridium paraputrificum,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6434,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,Eubacterium brachy,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+6443,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerostipes,Anaerostipes hadrus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6486,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1071,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6491,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1121,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6512,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1236,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6528,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1344,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6530,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus136,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6534,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1371,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6580,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus168,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6581,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus168,Unknown species9,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6588,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1739,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6607,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1881,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6618,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1955,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6620,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus1962,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6640,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus2208,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6689,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus2763,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6690,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus2779,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6703,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3008,Unknown species1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6751,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3107,Unknown species26,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6771,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3110,Unknown species37,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6773,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3110,Unknown species42,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6784,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3122,Unknown species27,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6818,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3193,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6832,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3220,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6842,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3239,Unknown species4,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+6858,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3262,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6866,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3284,Unknown species13,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6886,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3313,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6889,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3332,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+6890,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3332,Unknown species11,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6914,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3397,Unknown species10,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6924,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3403,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6966,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus352,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6968,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3522,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6973,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3540,Unknown species7,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+6989,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3593,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7009,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus371,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7014,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3741,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7022,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3758,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7052,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus393,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7057,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus3961,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7107,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus425,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7108,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus4252,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7109,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus4260,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7147,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus470,Unknown species7,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7150,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus493,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7162,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus54,Unknown species126,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7191,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus606,Unknown species4,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7206,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus665,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7228,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus745,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7232,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus755,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7237,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus80,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7256,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Unknown genus891,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7285,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species108,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7289,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1109,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7291,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species113,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7296,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1143,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7297,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1149,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7302,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1182,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7340,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1406,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7347,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1454,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7353,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1473,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7359,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1493,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7406,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1721,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7412,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1767,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7418,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1784,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7427,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1812,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7441,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1862,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7443,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1870,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7449,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1893,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7461,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1959,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7465,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1965,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7466,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species1966,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7498,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species2104,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7502,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species2124,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7544,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species2266,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7546,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species227,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7558,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species2322,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7596,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species2513,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7662,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species608,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7727,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Unknown species968,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7735,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Blautia faecis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7736,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Blautia obeum,0,0,0,0,0,0,0,1,0,0,0,1,1,3
+7747,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Catonella,Unknown species13,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7754,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Catonella,Unknown species37,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7758,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Catonella,Unknown species52,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7790,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species126,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7795,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1325,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7806,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species143,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7814,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1444,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7821,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1459,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7835,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1497,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7845,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1528,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7848,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1533,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7852,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1543,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7853,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1545,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7871,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1618,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7884,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1658,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7887,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1668,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7888,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1674,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7889,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1677,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7904,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1730,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7913,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1767,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7931,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1893,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7933,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species191,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+7937,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species1947,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+7949,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species267,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7953,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species294,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7978,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species467,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7985,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species535,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8010,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Unknown species78,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8037,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium bolteae,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8038,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium celerecrescens,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+8039,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium citroniae,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8040,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium clostridioforme,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8042,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium lavalense,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8043,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Clostridium symbiosum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8044,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVa,Hungatella hathewayi,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8047,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVb,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8048,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVb,Unknown species213,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8049,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVb,Unknown species222,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8059,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Clostridium XlVb,Clostridium lactatifermentans,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8061,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1007,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8064,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species103,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8073,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1085,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8079,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1115,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8080,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1126,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8084,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1149,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8088,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species1169,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8094,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species176,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8102,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species209,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8111,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species277,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8124,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species438,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8135,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species527,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8136,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species544,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8140,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species564,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8143,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species571,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8159,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species681,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8183,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species825,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8189,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species852,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8207,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species920,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8217,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Unknown species99,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8219,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Coprococcus catus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8220,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Coprococcus comes,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8221,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Coprococcus eutactus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8222,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species1004,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8225,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species117,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8229,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species136,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8232,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species183,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8248,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species453,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8277,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species711,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8288,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species770,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8292,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species785,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8308,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species893,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8315,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species948,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8319,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Unknown species990,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8320,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea formicigenerans,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8321,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea longicatena,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8323,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Howardella,Unknown species10,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8337,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoanaerobaculum,Unknown species54,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+8343,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoanaerobaculum,Eubacterium saburreum,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8344,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoanaerobaculum,Lachnoanaerobaculum orale,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8345,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnobacterium,Unknown species17,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8348,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnobacterium,Unknown species30,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8355,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species11,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8374,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species167,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8376,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species170,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8378,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species181,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8380,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species185,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8388,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species36,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8395,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Unknown species74,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8414,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Moryella,Moryella indoligenes,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8422,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Oribacterium,Oribacterium asaccharolyticum,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8430,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species100,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8445,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species228,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8471,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species449,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8476,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species482,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8481,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species503,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8488,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species536,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8489,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species54,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8493,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species557,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8511,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species654,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8516,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species661,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8520,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species669,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8528,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species702,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8551,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species835,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8552,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Unknown species85,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8559,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia faecis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8560,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia hominis,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8561,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia intestinalis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8562,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia inulinivorans,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8564,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Ruminococcus,Ruminococcus Unknown,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8565,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Ruminococcus,Ruminococcus gnavus,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8566,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Ruminococcus,Ruminococcus torques,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8591,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Ruminococcus2,Unknown species97,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8600,Bacteria,Firmicutes,Clostridia,Clostridiales,Mogibacteriaceae,Unknown genus101,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8614,Bacteria,Firmicutes,Clostridia,Clostridiales,Mogibacteriaceae,Mogibacterium,Unknown species107,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8621,Bacteria,Firmicutes,Clostridia,Clostridiales,Mogibacteriaceae,Mogibacterium,Unknown species66,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8662,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium XI,Unknown species274,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+8670,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium XI,Unknown species333,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8717,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridium XI,Clostridium bartlettii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8726,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcus,Peptostreptococcus stomatis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+8733,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetivibrio,Unknown species192,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8763,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1075,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8765,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1086,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8769,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1126,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8771,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1140,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8774,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1159,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8775,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1168,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8782,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1212,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8788,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1281,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8803,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1386,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8806,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1431,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8810,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1470,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8818,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1507,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8823,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1572,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8829,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1615,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8836,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1676,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8849,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1802,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8851,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1812,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8855,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus1853,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8864,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus189,Unknown species7,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8873,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus204,Unknown species9,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8911,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2393,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8916,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2411,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8927,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2447,Unknown species6,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8951,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2542,Unknown species9,0,0,0,0,0,0,0,1,0,0,0,0,1,2
+8952,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2544,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8954,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus255,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+8956,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2552,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8978,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2683,Unknown species6,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+8980,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2684,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8987,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2721,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8997,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2771,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9003,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2799,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9004,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus280,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9005,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2800,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9009,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2825,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9016,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2865,Unknown species3,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9020,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2877,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9026,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus29,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9036,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus2969,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9039,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus3001,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9045,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus3025,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9064,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus3160,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9078,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus3259,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9084,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus3318,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9085,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus333,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9105,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus379,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9116,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus480,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9120,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus514,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9123,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus547,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9125,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus549,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9134,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus603,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9137,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus62,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9150,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus701,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9171,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus874,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9175,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus891,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9180,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Unknown genus929,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9192,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Butyricicoccus,Unknown species108,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9232,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Clostridium IV,Unknown species171,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9234,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Clostridium IV,Unknown species21,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9251,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ethanoligenens,Unknown species5,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9256,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,Unknown species4,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9257,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,Unknown species40,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9260,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,Unknown species51,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9261,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,Faecalibacterium prausnitzii,0,0,1,1,0,0,0,0,0,0,0,1,1,4
+9264,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Flavonifractor,Flavonifractor plautii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9265,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species10,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9270,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species161,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9275,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species178,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9280,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species207,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9281,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species212,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9293,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species281,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9295,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species287,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9299,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species299,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9301,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species302,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9302,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species304,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9303,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species306,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9307,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species316,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9308,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species317,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9313,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species324,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9315,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species326,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9316,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species327,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9323,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species363,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9324,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species364,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9325,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species367,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9330,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species382,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9333,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species392,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9337,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Gemmiger,Unknown species63,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9344,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species111,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9355,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species215,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9380,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species446,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9401,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species580,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9406,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species592,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9407,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species594,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9411,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species604,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9417,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species618,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9426,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species633,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9429,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species658,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9430,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species661,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9433,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species672,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9437,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Unknown species684,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9470,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species1061,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9471,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species1064,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9489,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species194,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9549,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species624,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9578,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species795,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9581,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species801,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9583,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species806,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9585,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species810,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9590,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species834,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9614,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species917,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9622,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Unknown species970,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9644,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species1056,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9665,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species1281,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9673,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species133,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9709,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species45,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9719,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species53,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9731,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species724,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9756,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species985,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+9757,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species987,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9759,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Unknown species990,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9760,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Ruminococcus bromii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+9761,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Ruminococcus callidus,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9771,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,1-68,1-68 Unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,3
+9806,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species225,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9811,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species258,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9818,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species289,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9836,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species351,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9837,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species352,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9868,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Anaerococcus,Unknown species436,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+9900,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Finegoldia,Unknown species11,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+9902,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Finegoldia,Unknown species19,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9905,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Finegoldia,Unknown species39,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+9932,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Parvimonas,Unknown species61,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9943,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Peptoniphilus,Unknown species135,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+9948,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Peptoniphilus,Unknown species153,0,1,1,1,0,0,0,0,0,0,0,0,0,3
+9956,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,Peptoniphilus,Unknown species169,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+9985,Bacteria,Firmicutes,Clostridia,Clostridiales,Tissierellaceae,WAL_1855D,Unknown species21,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10012,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus1212,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10013,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus1249,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10047,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus1595,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10077,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus1950,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10105,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2258,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10112,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species20,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10114,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species22,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10115,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species23,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10116,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species24,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10117,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species25,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10118,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2290,Unknown species26,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10120,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2295,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10127,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2380,Unknown species5,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10135,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2417,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10141,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2445,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10155,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2511,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10164,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2619,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10170,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2699,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10172,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2732,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10179,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus278,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10180,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus2802,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10200,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus3029,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10207,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus3121,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10211,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus3199,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10217,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus386,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10228,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus457,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10230,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus473,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10236,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus505,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10247,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown family,Unknown genus578,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10298,Bacteria,Firmicutes,Clostridia,Clostridiales,Unknown species,Parvimonas,Parvimonas micra,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10310,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Unknown genus97,Unknown species4,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10313,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species12,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10330,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species294,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10334,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species303,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10340,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species326,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10343,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species331,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10348,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species393,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10355,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Dialister,Unknown species8,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10360,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Megamonas,Unknown species29,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10379,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Megasphaera,Unknown species64,0,1,0,0,0,0,0,0,0,0,0,1,1,3
+10386,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Megasphaera,Unknown species99,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10389,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Phascolarctobacterium,Unknown species11,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10392,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Phascolarctobacterium,Unknown species143,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10403,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Phascolarctobacterium,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10405,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Schwartzia,Unknown species12,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10409,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Schwartzia,Unknown species27,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10410,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Schwartzia,Unknown species28,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10413,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Schwartzia,Unknown species44,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10415,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Schwartzia,Unknown species49,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10422,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species103,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10427,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species119,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10444,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species18,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+10452,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species199,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10458,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species208,0,0,0,0,0,1,0,0,0,0,0,1,1,3
+10461,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species215,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10470,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species231,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10504,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Unknown species59,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+10513,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Selenomonas,Selenomonas noxia,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10523,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Veillonella,Unknown species15,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10532,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Veillonella,Unknown species47,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10536,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Veillonella,Unknown species76,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+10545,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Veillonella,Veillonella dispar,0,1,1,0,1,0,1,0,0,0,0,1,1,6
+10546,Bacteria,Firmicutes,Clostridia,Clostridiales,Veillonellaceae,Veillonella,Veillonella parvula,0,1,1,0,0,0,0,0,0,0,0,1,1,4
+10591,Bacteria,Firmicutes,Erysipelotrichi,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Unknown species12,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10592,Bacteria,Firmicutes,Erysipelotrichi,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Unknown species29,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10616,Bacteria,Firmicutes,Erysipelotrichi,Erysipelotrichales,Erysipelotrichaceae,Eubacterium,Eubacterium biforme,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10618,Bacteria,Firmicutes,Erysipelotrichi,Erysipelotrichales,Erysipelotrichaceae,Holdemania,Unknown species7,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10626,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Bulleidia extructa,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10628,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Clostridium XVIII,Unknown species103,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10639,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Clostridium XVIII,Unknown species95,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10641,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Clostridium XVIII,Clostridium ramosum,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10644,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Solobacterium,Bulleidia moorei,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+10648,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Dialister,Dialister pneumosintes,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10670,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Unknown species213,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10694,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Unknown species413,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10705,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Unknown species497,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10720,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Unknown species671,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10726,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,1,1,1,0,0,0,1,0,0,0,0,1,1,6
+10727,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium periodonticum,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+10730,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Unknown genus1,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10733,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Unknown species114,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10735,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Unknown species12,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10747,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Unknown species204,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10757,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Unknown species235,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+10771,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Unknown species5,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+10774,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia buccalis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+10777,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia hongkongensis,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10779,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia trevisanii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10780,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia wadei,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+10791,Bacteria,GN02,BD1-5,Unknown order,Unknown family,Unknown genus39,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11153,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,Unknown species13,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+11187,Bacteria,Proteobacteria,Alphaproteobacteria,RF32,Unknown family,Unknown genus16,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+11189,Bacteria,Proteobacteria,Alphaproteobacteria,RF32,Unknown family,Unknown genus24,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+11317,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bosea,Unknown species47,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11417,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum haematophilum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11428,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Pseudochrobactrum,Pseudochrobactrum saccharolyticum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11461,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Devosia,Unknown species194,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+11498,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Devosia,Unknown species72,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11650,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium fujisawaense,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+11656,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium mesophilicum,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+11660,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium phyllosphaerae,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+11758,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Unknown species52,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+11760,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Unknown species68,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+11772,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium loti,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11798,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Unknown species165,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11839,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Unknown species292,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+11842,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Unknown species298,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+12011,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacter,Unknown species12,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12033,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Unknown genus340,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12070,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Unknown species23,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12075,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Unknown species36,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+12083,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Unknown species56,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12084,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Unknown species57,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12097,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Unknown species72,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12106,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus chinensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12109,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus marcusii,0,1,1,0,1,1,0,0,0,0,0,0,0,4
+12110,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus marinus,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12120,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobaca,Unknown species21,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+12183,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Unknown species279,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12208,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Unknown species10,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Unknown species16,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+12216,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Unknown species23,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12219,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Unknown species26,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+12224,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Unknown species4,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12227,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,Rubellimicrobium roseum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12289,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,Roseomonas mucosa,0,0,0,1,1,0,0,0,1,0,0,0,0,3
+12401,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Skermanella,Unknown species27,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+12426,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Unknown species14,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12434,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia felis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12476,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Altererythrobacter,Unknown species120,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12551,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Kaistobacter,Kaistobacter Unknown,0,0,1,1,1,0,0,0,0,0,0,0,0,3
+12578,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Unknown species221,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12585,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Unknown species232,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12659,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Unknown species87,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+12674,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingomonas yanoikuyae,1,0,0,1,0,0,0,0,0,1,0,0,0,3
+12685,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species124,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12729,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species224,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12735,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species247,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12742,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species266,1,1,0,0,1,0,0,0,0,0,0,0,0,3
+12777,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species362,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12808,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species45,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+12873,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Unknown species602,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+12931,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas roseiflava,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+12934,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas wittichii,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+12937,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas yunnanensis,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+12967,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Unknown family,Unknown genus12,Unknown species1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+12982,Bacteria,Proteobacteria,Alphaproteobacteria,Unknown order,Unknown family,Unknown genus296,Unknown species1,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+12998,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter denitrificans,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+13005,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter xylosoxidans,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13018,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes,Alcaligenes faecalis,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+13058,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species13,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+13070,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species17,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13075,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species184,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+13079,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species199,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+13080,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species203,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+13082,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species205,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13083,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species206,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13085,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species210,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+13091,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species221,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+13092,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species223,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+13099,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species31,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13100,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species32,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+13105,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Sutterella,Unknown species62,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13157,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus respiraculi,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13165,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Lautropia,Unknown species38,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13168,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Lautropia,Unknown species59,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13174,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Lautropia,Unknown species79,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13194,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax temperans,0,1,0,1,1,0,0,0,0,0,0,0,0,3
+13209,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Unknown species81,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+13395,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Diaphorobacter,Diaphorobacter nitroreducens,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+13438,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Limnobacter,Unknown species89,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13606,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rubrivivax,Unknown species15,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13613,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Schlegelella,Schlegelella aquatica,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+13620,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Tepidimonas,Unknown species11,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13685,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Unknown species120,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13722,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Unknown species206,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13804,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Unknown species17,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13808,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Unknown species173,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+13810,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Unknown species177,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13898,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Massilia haematophila,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+13902,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Massilia oculi,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+13904,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Massilia timonae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13907,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Naxibacter suwonensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+13920,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Noviherbaspirillum,Noviherbaspirillum aurantiacum,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13994,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,Sutterella wadsworthensis,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+13998,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Unknown family,Unknown genus62,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14064,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Unknown genus10,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14069,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Unknown genus41,Unknown species22,0,1,1,1,1,0,0,0,0,0,0,0,0,4
+14070,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Unknown genus41,Unknown species26,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+14087,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Eikenella,Eikenella corrodens,0,0,0,0,0,1,0,0,0,0,0,1,1,3
+14102,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Kingella,Unknown species84,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14108,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Kingella,Kingella oralis,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+14122,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Unknown species162,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+14129,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Unknown species196,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14136,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Unknown species228,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+14137,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Unknown species236,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+14166,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria elongata,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14169,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria macacae,0,0,1,0,1,0,0,0,0,0,1,0,0,3
+14172,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria oralis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14173,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria perflava,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+14174,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria subflava,0,1,1,0,0,0,1,0,0,0,0,0,0,3
+14179,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Stenoxybacter,Unknown species11,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14180,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Stenoxybacter,Unknown species4,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14261,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Hydrogenophilus,Unknown species1,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+14262,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Hydrogenophilus,Unknown species12,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14365,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bdellovibrionaceae,Vampirovibrio,Unknown species41,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+14366,Bacteria,Proteobacteria,Deltaproteobacteria,Bdellovibrionales,Bdellovibrionaceae,Vampirovibrio,Unknown species44,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14378,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Unknown species12,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+14381,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Unknown species29,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14384,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Bilophila wadsworthia,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14526,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,Arcobacter nitrofigilis,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+14532,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Unknown species12,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14539,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Unknown species56,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14540,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Unknown species63,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+14543,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Unknown species87,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14545,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter concisus,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+14547,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter gracilis,0,0,1,0,0,0,0,0,0,0,0,1,0,2
+14551,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter ureolyticus,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+14571,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas caviae,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14574,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila,1,1,1,1,0,0,0,1,0,0,0,0,0,5
+14575,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas jandaei,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14578,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas punctata,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14582,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas veronii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14586,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Unknown species142,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14588,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Unknown species164,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14595,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Unknown species259,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+14598,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Unknown genus18,Unknown species1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+14643,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Chromatiaceae,Rheinheimera,Unknown species28,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14676,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Unknown species66,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+14680,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella decolorationis,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+14683,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella putrefaciens,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14707,Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Cardiobacteriaceae,Cardiobacterium,Cardiobacterium valvarum,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14730,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Unknown genus167,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14733,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Unknown genus191,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+14737,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Unknown genus225,Unknown species2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+14775,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Citrobacter,Citrobacter freundii,0,0,1,0,1,0,1,0,0,0,0,0,0,3
+14794,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Unknown species177,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14795,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Unknown species196,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+14817,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Unknown species313,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14846,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Enterobacter aerogenes,0,1,1,0,0,0,1,0,0,0,0,0,1,4
+14847,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Enterobacter asburiae,0,0,1,0,0,0,1,0,0,1,0,1,0,4
+14848,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Enterobacter cancerogenus,0,0,1,0,0,0,0,0,0,0,0,1,1,3
+14849,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae,0,1,1,0,0,0,1,0,0,0,1,1,1,6
+14881,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Erwinia,Unknown species242,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+14902,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Erwinia,Unknown species310,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14918,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Erwinia,Erwinia persicina,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+14934,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species231,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+14955,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species43,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+14956,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species44,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+14962,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species500,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14990,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species645,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14992,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species657,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+14997,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species70,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+14998,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species703,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+15016,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species92,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+15017,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Unknown species99,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+15019,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia/Shigella,Escherichia/Shigella fergusonii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+15030,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Gluconacetobacter,Gluconacetobacter liquefaciens,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15043,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,Unknown species25,0,1,1,0,0,1,0,0,0,0,0,0,0,3
+15054,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,Klebsiella oxytoca,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+15055,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,0,1,0,0,1,0,1,0,0,0,0,1,0,4
+15062,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Morganella,Morganella morganii,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+15067,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Pantoea,Pantoea agglomerans,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15070,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Pantoea,Pantoea brenneri,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+15115,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia,Rahnella aquatilis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15119,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia,Serratia marcescens,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15183,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Unknown species233,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15215,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas venusta,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15227,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Unknown species3,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15229,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Unknown species34,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15245,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter segnis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15254,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Unknown species59,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15307,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter beijerinckii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15324,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter ursingii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15325,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species103,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15327,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species105,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15333,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species127,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+15340,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species157,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15354,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species228,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15368,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species31,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+15373,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species346,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15381,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species358,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15395,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species392,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15399,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species403,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15403,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species412,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15409,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species424,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+15416,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species436,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15417,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species437,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+15419,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species441,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+15426,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species462,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+15429,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Unknown species490,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15449,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Alkanindiges,Unknown species31,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15455,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Unknown genus1,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15459,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Unknown genus5,Unknown species1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15462,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Unknown genus63,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15477,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Unknown species141,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15479,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Unknown species149,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+15484,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella catarrhalis,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15494,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Unknown species28,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+15499,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Psychrobacter cryohalolentis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15512,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Unknown genus13,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15514,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Unknown genus23,Unknown species1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15519,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Unknown genus44,Unknown species2,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15568,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species39,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+15572,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species417,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15596,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species578,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+15600,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species593,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+15607,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species632,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+15608,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species643,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+15617,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Unknown species678,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15657,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15659,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas alcaligenes,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15662,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas argentinensis,0,0,1,0,1,0,0,0,0,1,0,0,0,3
+15664,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas asplenii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15666,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas baetica,0,1,1,1,1,0,0,0,0,0,0,0,0,4
+15667,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas balearica,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+15672,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas chlororaphis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15680,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas flavescens,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15685,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fulva,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+15691,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas libanensis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15694,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas mandelii,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15695,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas mendocina,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+15696,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas migulae,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+15704,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas oleovorans,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+15707,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas otitidis,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15714,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+15726,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+15733,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas viridiflava,1,0,1,0,0,1,0,0,0,0,0,0,0,3
+15844,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Luteimonas,Unknown species32,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15853,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Luteimonas,Unknown species76,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+15854,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Luteimonas,Unknown species77,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15905,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas mexicana,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15913,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Unknown species108,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15933,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas acidaminiphila,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15947,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Thermomonas,Unknown species48,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+15956,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas arboricola,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+15958,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas campestris,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15996,Bacteria,Spirochaetes,Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema,Unknown species318,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+16011,Bacteria,Spirochaetes,Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema,Unknown species744,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+16014,Bacteria,Spirochaetes,Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema,Unknown species760,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+16025,Bacteria,Spirochaetes,Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema,Treponema socranskii,0,0,0,0,0,0,0,0,0,1,0,1,0,2
+16113,Bacteria,TM7,TM7-3,CW040,F16,Unknown genus18,Unknown species6,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+16119,Bacteria,TM7,TM7-3,CW040,Unknown family,Unknown genus3,Unknown species7,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+16148,Bacteria,TM7,TM7-3,Unknown order,Unknown family,Unknown genus32,Unknown species13,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+16157,Bacteria,TM7,TM7-3,Unknown order,Unknown family,Unknown genus6,Unknown species3,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+16163,Bacteria,TM7,TM7-3,Unknown order,Unknown family,Unknown genus73,Unknown species7,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+16184,Bacteria,Tenericutes,Mollicutes,Anaeroplasmatales,Anaeroplasmataceae,Asteroleplasma,Unknown species55,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+16193,Bacteria,Tenericutes,Mollicutes,RF39,Unknown family,Unknown genus121,Unknown species1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+16227,Bacteria,Thermi,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Unknown species124,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+16320,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Akkermansia,Akkermansia muciniphila,0,0,0,0,0,0,0,0,0,0,0,1,1,2

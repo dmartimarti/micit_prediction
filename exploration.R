@@ -272,42 +272,6 @@ ggsave('Micit_prod_byTissue_cancer.pdf', height = 8, width = 10)
 
 
 
-# # NORMALISED BY FREQS
-# 
-# freqs = colSums(global_freqs[,3:17]) %>% 
-#   tibble(sample = names(colSums(global_freqs[,3:17]))) %>% 
-#   rename(tissue = sample)
-# 
-# names(freqs) = c('freq', 'tissue')
-# 
-# 
-# micit_prod %>% 
-#   filter(str_detect(tissue, '\\(T\\)')) %>% 
-#   pivot_longer(NGM:serum, names_to = 'Media', values_to = 'Micit_prod') %>% 
-#   left_join(freqs)  %>% 
-#   mutate(Micit_prod_norm = Micit_prod / freq) %>% 
-#   ggplot(aes(x = Micit_prod_norm, y = reorder(tissue, Micit_prod_norm, mean), 
-#              fill=Media, group=Media)) +
-#   geom_bar(stat = 'identity') + 
-#   facet_wrap(~Media, scales = 'free_x') +
-#   theme_light() 
-# 
-# 
-# 
-
-
-
-# taxonomy test -----------------------------------------------------------
-
-taxonomy <- read_delim("taxonomy.tsv", "\t", 
-                       escape_double = FALSE, trim_ws = TRUE)
-
-
-
-
-taxonomy
-
-
 
 
 

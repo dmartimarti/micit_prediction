@@ -273,6 +273,20 @@ ggsave('Micit_prod_byTissue_cancer.pdf', height = 8, width = 10)
 
 
 
+# correlation 
+# plot
+library(broom)
+micit %>% 
+  filter(!(NGM == 0 & serum == 0)) %>% 
+  ggplot(aes(NGM, serum)) +
+  geom_smooth(method = 'lm') +
+  geom_point() +
+  theme_light()
 
+model = micit %>% 
+  filter(!(NGM == 0 & serum == 0)) %>% 
+  nest(everything()) %>% 
+  mutate(model = map(data, lm, formula = 'NGM ~ serum'))  %>% 
+  select(model)
 
-
+glance((model$model[[1]]))
